@@ -10,4 +10,6 @@ title = "Hello Hugo CI"
 
 # Hello, Hugo CI
 
-First autodeployed post (if everything will go OK.)
+First autodeployed post (if everything will go OK) with [Hugo CI].
+
+[Hugo CI]: https://github.com/sainaen/hugo-ci
