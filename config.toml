@@ -1,8 +1,8 @@
-baseurl = "http://hugo.spf13.com/"
-title = "Hugo Themes"
+baseurl = "https://sainaen.com/hugo-ci-test/"
+title = "Hugo CI Test"
 author = "Steve Francia"
 copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
 canonifyurls = true
 paginate = 3
 
-
+theme = "hyde"
