@@ -5,4 +5,4 @@ copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
 canonifyurls = true
 paginate = 3
 
-theme = "hyde2"
+theme = "hyde"
